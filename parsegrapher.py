@@ -3,8 +3,8 @@ import os
 from collections import Counter
 
 # Define file paths
-log_file_path = './test2.log'
-output_dir = './images/'
+log_file_path = './test3.log'
+output_dir = './1500razeen/'
 
 # Ensure the output directory exists
 os.makedirs(output_dir, exist_ok=True)
