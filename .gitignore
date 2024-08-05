@@ -2,3 +2,5 @@ chromedriver.exe
 .venv
 **.txt
 **.pkl
+**.log
+/images
